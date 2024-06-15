@@ -2,5 +2,5 @@
 
 ## Gravando Mudanças 
 # 1 mudança
-## Slavando alteraçoes no Git
+## Salvando alteraçoes no Git
     # git push 
